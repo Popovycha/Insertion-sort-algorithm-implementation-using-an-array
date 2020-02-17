@@ -1,0 +1,12 @@
+CSC231-1301: BMCC/CUNY Fall 2019
+Discrete Structures and Applications to Computer Science
+Program #4
+Artem Popovych ID:23579191
+Before sorting:
+751 358 395 449 744 222 230 822 459 898 
+After quick sort:
+222 230 358 395 449 459 744 751 822 898 
+Before heap sorting:
+377 584 723 101 639 891 366 113 537 730 
+After heap sort:
+101 113 366 377 537 584 639 723 730 891 
